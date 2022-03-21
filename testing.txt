@@ -4,5 +4,6 @@ purple
 black
 white
 green
+yellow
 pink
 these are the cool colors
