@@ -6,6 +6,7 @@ purple
 black
 white
 green
+indigo
 Unicorn
 yellow
 pink
