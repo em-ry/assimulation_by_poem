@@ -1,2 +1,3 @@
-# research_project_-document
-This is a repo for my research
+# assimulation_by_poem
+This is my first repo which i'll be using to adapt to the github environment.
+I'm starting off by using poems(Thanks to 'The coding train' tutorial).
